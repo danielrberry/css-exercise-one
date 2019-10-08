@@ -1,3 +1,4 @@
+/* typography */
 body {
   font-size: 14px;
 }
@@ -9,8 +10,6 @@ nav {
   position: fixed;
   width: 100%;
 }
-
-/* main site content*/
 
 section {
   margin: 0 auto;
@@ -31,6 +30,7 @@ h3 {
   font-size: 1.3em;
 }
 
+/*div styles*/
 .element {
   background-color: green;
   height: 100px;
@@ -38,6 +38,14 @@ h3 {
   width: 100%;
 }
 
-div {
+.red {
     background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
 }
